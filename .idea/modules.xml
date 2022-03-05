@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../restful/restful.iml" filepath="$PROJECT_DIR$/../restful/restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_01_01_squickstart/springboot_01_01_squickstart.iml" filepath="$PROJECT_DIR$/../springboot_01_01_squickstart/springboot_01_01_squickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_01_02_quickstart/springboot_01_02_quickstart.iml" filepath="$PROJECT_DIR$/../springboot_01_02_quickstart/springboot_01_02_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_02_base_configuration/springboot_02_base_configuration.iml" filepath="$PROJECT_DIR$/../springboot_02_base_configuration/springboot_02_base_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_05_mybatis/springboot_05_mybatis.iml" filepath="$PROJECT_DIR$/../springboot_05_mybatis/springboot_05_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_druid/springboot_druid.iml" filepath="$PROJECT_DIR$/../springboot_druid/springboot_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_junit/springboot_junit.iml" filepath="$PROJECT_DIR$/../springboot_junit/springboot_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_ssmp/springboot_ssmp.iml" filepath="$PROJECT_DIR$/../springboot_ssmp/springboot_ssmp.iml" />
+    </modules>
+  </component>
+</project>

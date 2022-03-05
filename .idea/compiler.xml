@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restful" />
+        <module name="springboot_druid" />
+        <module name="springboot_01_02_quickstart" />
+        <module name="springboot_05_mybatis" />
+        <module name="springboot_ssmp" />
+        <module name="springboot_junit" />
+        <module name="springboot_02_base_configuration" />
+        <module name="springboot_01_01_squickstart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.itheima" target="1.8" />
+      <module name="restful" target="1.8" />
+      <module name="springboot_01_01_squickstart" target="1.8" />
+      <module name="springboot_01_02_quickstart" target="8" />
+      <module name="springboot_02_base_configuration" target="1.8" />
+      <module name="springboot_05_mybatis" target="1.8" />
+      <module name="springboot_druid" target="1.8" />
+      <module name="springboot_junit" target="1.8" />
+      <module name="springboot_ssmp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot_01_01_squickstart" options="-parameters" />
+      <module name="springboot_01_02_quickstart" options="-parameters" />
+      <module name="springboot_02_base_configuration" options="-parameters" />
+    </option>
+  </component>
+</project>
